@@ -3,8 +3,8 @@ import sys
 
 class Colors:
     CYAN = "\033[36m"
-    GREEN = "\033[32m"
     YELLOW = "\033[33m"
+    GREEN = "\033[32m"
     BLUE = "\033[34m"
     RED = "\033[31m"
     ENDC = "\033[0m"
